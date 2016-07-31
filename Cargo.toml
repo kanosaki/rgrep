@@ -1,0 +1,9 @@
+[package]
+name = "rgrep"
+version = "0.1.0"
+authors = ["kanosaki <kanosaki@gmail.com>"]
+
+[dependencies]
+docopt = "*"
+rustc-serialize = "*"
+memmap = "*"
